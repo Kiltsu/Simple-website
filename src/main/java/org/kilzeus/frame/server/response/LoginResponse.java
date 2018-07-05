@@ -5,7 +5,7 @@
  */
 package org.kilzeus.frame.server.response;
 
-import org.kilzeus.frame.core.entities.User;
+import org.kilzeus.frame.server.entities.User;
 
 /**
  *

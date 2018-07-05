@@ -5,7 +5,7 @@
  */
 package org.kilzeus.frame.server.controller;
 
-import org.kilzeus.frame.core.entities.Page;
+import org.kilzeus.frame.server.entities.Page;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -18,7 +18,7 @@ import org.kilzeus.frame.server.repository.PageRepository;
  * @author Kilzeus
  */
 @RestController
-public class CmsController {
+public class ContentController {
     
     @Autowired
     private PageRepository pageRepo;

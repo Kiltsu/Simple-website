@@ -5,13 +5,13 @@
  */
 package org.kilzeus.service;
 
-import org.kilzeus.frame.core.entities.User;
+import org.kilzeus.frame.server.entities.User;
 import org.kilzeus.frame.server.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- *
+ * Authenticates a user.
  * @author Kilzeus
  */
 @Component

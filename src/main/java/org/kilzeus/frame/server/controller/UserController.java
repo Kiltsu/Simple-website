@@ -7,8 +7,8 @@ package org.kilzeus.frame.server.controller;
 
 import java.util.Date;
 import java.util.Objects;
-import org.kilzeus.frame.core.entities.User;
-import org.kilzeus.frame.core.entities.UserSession;
+import org.kilzeus.frame.server.entities.User;
+import org.kilzeus.frame.server.entities.UserSession;
 import org.kilzeus.frame.server.repository.UserSessionRepository;
 import org.kilzeus.frame.server.response.LoginResponse;
 import org.springframework.beans.factory.annotation.Autowired;

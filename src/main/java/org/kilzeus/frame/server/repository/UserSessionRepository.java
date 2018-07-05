@@ -6,9 +6,9 @@
 package org.kilzeus.frame.server.repository;
 
 import java.util.List;
-import org.kilzeus.frame.core.entities.Company;
-import org.kilzeus.frame.core.entities.User;
-import org.kilzeus.frame.core.entities.UserSession;
+import org.kilzeus.frame.server.entities.Company;
+import org.kilzeus.frame.server.entities.User;
+import org.kilzeus.frame.server.entities.UserSession;
 import org.springframework.data.repository.CrudRepository;
 
 /**

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.kilzeus.frame.core.entities;
+package org.kilzeus.frame.server.entities;
 
 import java.util.Date;
 import java.util.List;

@@ -6,7 +6,7 @@
 package org.kilzeus.frame.server.repository;
 
 import java.util.List;
-import org.kilzeus.frame.core.entities.Page;
+import org.kilzeus.frame.server.entities.Page;
 import org.springframework.data.repository.CrudRepository;
 
 /**

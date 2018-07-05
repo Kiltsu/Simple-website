@@ -5,7 +5,7 @@
  */
 package org.kilzeus.frame.server.response;
 
-import org.kilzeus.frame.core.entities.Company;
+import org.kilzeus.frame.server.entities.Company;
 
 /**
  *

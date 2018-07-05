@@ -6,7 +6,7 @@
 package org.kilzeus.frame.server.controller;
 
 import java.util.List;
-import org.kilzeus.frame.core.entities.Company;
+import org.kilzeus.frame.server.entities.Company;
 import org.kilzeus.frame.server.repository.CompanyRepository;
 import org.kilzeus.frame.server.response.AboutResponse;
 import org.springframework.beans.factory.annotation.Autowired;
